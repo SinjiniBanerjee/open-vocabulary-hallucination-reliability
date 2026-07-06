@@ -1,6 +1,3 @@
-# open-vocabulary-hallucination-reliability
-Code for quantifying and mitigating hallucinations in open-vocabulary object detection.
-
 # Quantifying and Mitigating Hallucinations in Open-Vocabulary Object Detection
 
 This repository contains the experimental notebook for the study:
