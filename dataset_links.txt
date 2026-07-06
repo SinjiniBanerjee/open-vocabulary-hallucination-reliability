@@ -1,0 +1,10 @@
+Datasets used in this study
+
+1. MS-COCO 2017 validation split
+Official source: https://cocodataset.org/
+
+2. LVIS v1.0 validation annotations
+Official source: https://www.lvisdataset.org/
+
+Notes:
+The datasets are not redistributed in this repository. The main experiments use COCO validation images and annotations. LVIS validation annotations were inspected for rare-category evaluation, but full image-level LVIS evaluation was not reported because only a small number of required images were retrievable in the execution environment.
